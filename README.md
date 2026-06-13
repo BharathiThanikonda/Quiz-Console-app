@@ -1,6 +1,6 @@
 # Quiz Console App
 
-A simple console-based quiz application built in Java t
+A simple console-based quiz application built in Java
 ## Features
 
 - **Interactive Quiz**: Users answer multiple-choice questions through the console
